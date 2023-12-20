@@ -1,0 +1,24 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "axios": "^1.1.2",
+        "bootstrap": "^5.2.3",
+        "create-vite": "^4.4.1",
+        "esbuild": "^0.18.20",
+        "laravel-mix": "^6.0.49",
+        "laravel-vite-plugin": "^0.8.1",
+        "mix": "^0.0.1",
+        "sass": "^1.56.1",
+        "vite": "^4.5.1"
+    },
+    "dependencies": {
+        "lightbox2": "^2.11.4",
+        "sweetalert2": "^11.9.0"
+    }
+}
